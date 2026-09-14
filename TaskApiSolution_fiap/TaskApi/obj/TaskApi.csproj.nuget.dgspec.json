@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {}
+    "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {}
   },
   "projects": {
-    "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {
+    "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj",
+        "projectUniqueName": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj",
         "projectName": "TaskApi",
-        "projectPath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj",
+        "projectPath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj",
         "packagesPath": "/Users/orlando.patriarcha/.nuget/packages/",
-        "outputPath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/obj/",
+        "outputPath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/orlando.patriarcha/.nuget/NuGet/NuGet.Config"

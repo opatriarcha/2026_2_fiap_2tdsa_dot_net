@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJ2gSLPZVhw=",
+  "dgSpecHash": "SLsN4own6S0=",
   "success": true,
-  "projectFilePath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
+  "projectFilePath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/orlando.patriarcha/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/orlando.patriarcha/.nuget/packages/microsoft.codecoverage/17.11.1/microsoft.codecoverage.17.11.1.nupkg.sha512",

@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
+      "projectUniqueName": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
       "projectName": "TaskApi.UnitTests",
-      "projectPath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
+      "projectPath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi.UnitTests/TaskApi.UnitTests.csproj",
       "packagesPath": "/Users/orlando.patriarcha/.nuget/packages/",
-      "outputPath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi.UnitTests/obj/",
+      "outputPath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi.UnitTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/orlando.patriarcha/.nuget/NuGet/NuGet.Config"
@@ -1477,8 +1477,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {
-              "projectPath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi/TaskApi.csproj"
+            "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj": {
+              "projectPath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi/TaskApi.csproj"
             }
           }
         }

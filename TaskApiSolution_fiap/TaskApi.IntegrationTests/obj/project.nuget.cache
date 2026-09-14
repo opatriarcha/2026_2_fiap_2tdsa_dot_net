@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nyp95fT+0Bg=",
+  "dgSpecHash": "M113ygtvFAw=",
   "success": true,
-  "projectFilePath": "/Users/orlando.patriarcha/Downloads/TaskApiSolution_fiap/TaskApi.IntegrationTests/TaskApi.IntegrationTests.csproj",
+  "projectFilePath": "/Users/orlando.patriarcha/dev/workspaces/fiap/2026_2_fiap_2tdsa_dot_net/TaskApiSolution_fiap/TaskApi.IntegrationTests/TaskApi.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "/Users/orlando.patriarcha/.nuget/packages/microsoft.aspnetcore.mvc.testing/8.0.10/microsoft.aspnetcore.mvc.testing.8.0.10.nupkg.sha512",
     "/Users/orlando.patriarcha/.nuget/packages/microsoft.aspnetcore.testhost/8.0.10/microsoft.aspnetcore.testhost.8.0.10.nupkg.sha512",

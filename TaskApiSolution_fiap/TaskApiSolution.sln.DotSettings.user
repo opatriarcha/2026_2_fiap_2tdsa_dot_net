@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf85190d_002Da8ab_002D4fdc_002D83af_002Dd0ea775bdce7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_DeveArmazenarTarefaEPermitirBuscaPorId" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.InMemoryTaskRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests.Create_ComTituloValido_DeveChamarRepositorioEDevolverTarefa&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests.Create_ComTituloInvalido_DeveLancarTaskValidationException&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

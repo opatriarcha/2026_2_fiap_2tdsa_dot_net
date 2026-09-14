@@ -5,5 +5,10 @@
     &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests.Create_ComTituloValido_DeveChamarRepositorioEDevolverTarefa&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests.Create_ComTituloInvalido_DeveLancarTaskValidationException&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33333333-3333-3333-3333-333333333333::net8.0::TaskApi.IntegrationTests.TaskEndpointsTests.GetTasks_QuandoNaoExistemTarefas_DeveRetornarStatusCode200_e_lista_vazia&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33333333-3333-3333-3333-333333333333::net8.0::TaskApi.IntegrationTests.TaskEndpointsTests.PostTask_ComDadosValidos_DeveCriarERetornar_201&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskEndpointsTests.GetAll_QuandoNaoHaTarefas_DeveRetornarOkComListaVazia&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskEndpointsTests.GetAll_DeveRetornarOkComAsTarefasDoServico&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::22222222-2222-2222-2222-222222222222::net8.0::TaskApi.UnitTests.TaskEndpointsTests.GetById_QuandoExiste_DeveRetornarOkComATarefa&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
